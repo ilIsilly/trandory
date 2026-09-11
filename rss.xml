@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trandory</title>
+    <link>https://ilisilly.github.io/trandory/</link>
+    <description>Trandory의 최신 트렌드와 여행 이야기</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://ilisilly.github.io/trandory/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026년 일본 실버위크, 9월 여행 전에 알아둘 것</title>
+      <link>https://ilisilly.github.io/trandory/ko/posts/japan-silver-week-2026.html</link>
+      <guid isPermaLink="true">https://ilisilly.github.io/trandory/ko/posts/japan-silver-week-2026.html</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
+      <description>올해 일본은 9월 19일부터 23일까지 닷새 연휴가 이어져요. 여행 날짜가 겹친다면 숙소와 교통편을 미리 살펴보세요.</description>
+    </item>
+  </channel>
+</rss>
