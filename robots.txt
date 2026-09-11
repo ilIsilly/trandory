@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilisilly.github.io/trandory/sitemap.xml
